@@ -42,4 +42,4 @@ Binary churn classification system for a financial services company. Five models
 Operations & Data Specialist | Barquisimeto, Venezuela  
 Working remotely with US-based teams since 2020
 
-[LinkedIn](https://www.linkedin.com/in/danielpalmera) · [Upwork](https://www.upwork.com/freelancers/danielpalmera)
+[LinkedIn](https://www.linkedin.com/in/daniel-palmera-534683175/) · [Upwork](https://www.upwork.com/freelancers/danielpalmeram)
